@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="">
+    <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI">
+      <change afterPath="$PROJECT_DIR$/View/AllUsersFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/AllUsersPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ChatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ChatMainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/hej.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/hej.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +34,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;PerssonO&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PerssonO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="18b51eb1-298b-4df5-a4e0-724b3b7123ba" />
+        <option name="url" value="https://github.com/PerssonO/P3.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,6 +70,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,10 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1708694062278</updated>
       <workItem from="1708694063343" duration="1363000" />
+      <workItem from="1708875278372" duration="857000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Uppdatering GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdatering GUI" />
   </component>
 </project>
