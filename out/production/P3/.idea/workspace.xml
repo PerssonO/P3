@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI">
-      <change afterPath="$PROJECT_DIR$/Client/ClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/MessageReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/MessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client/clientTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/MockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ConnectedClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/hej.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/hej2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/hej3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/AllUsersPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/AllUsersPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatMainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatMainPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +25,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -71,12 +66,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.clientTester.executor": "Run",
     "Application.hej.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Server",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
@@ -88,7 +84,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -148,7 +144,7 @@
       <updated>1708694062278</updated>
       <workItem from="1708694063343" duration="1363000" />
       <workItem from="1708875278372" duration="2419000" />
-      <workItem from="1708885574843" duration="7768000" />
+      <workItem from="1708885574843" duration="10718000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
@@ -162,6 +158,29 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Server" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uppdatering GUI" />
