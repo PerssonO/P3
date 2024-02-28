@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI">
-      <change afterPath="$PROJECT_DIR$/Server/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/ConnectedClients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Update.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/OlasTestaServernKlient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/OlasTestaServernKlient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/ConnectedClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ConnectedClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/UnsendMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/UnsendMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection$Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection$Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection$Writer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -64,30 +62,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.clientTester.executor": "Run",
-    "Application.hej.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Server",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.clientTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hej.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Server&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\1984o\OneDrive\Kurser\Trådar och data\P3\P3\src" />
@@ -145,6 +143,7 @@
       <workItem from="1708694063343" duration="1363000" />
       <workItem from="1708875278372" duration="2419000" />
       <workItem from="1708885574843" duration="10718000" />
+      <workItem from="1709121095041" duration="14501000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
@@ -159,31 +158,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Server" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uppdatering GUI" />
     <option name="LAST_COMMIT_MESSAGE" value="Uppdatering GUI" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Server/Connection.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
