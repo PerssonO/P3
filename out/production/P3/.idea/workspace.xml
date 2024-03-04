@@ -13,13 +13,21 @@
       <change afterPath="$PROJECT_DIR$/Model/Message.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Model/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Server/MockServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/hej.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/hej2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/hej3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/AllUsersFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/AllUsersFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/AllUsersPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/AllUsersPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/ChatMainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatMainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/LoginPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,6 +79,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.clientTester.executor": "Run",
     "Application.hej.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,7 +97,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -148,7 +157,7 @@
       <updated>1708694062278</updated>
       <workItem from="1708694063343" duration="1363000" />
       <workItem from="1708875278372" duration="2419000" />
-      <workItem from="1708885574843" duration="7768000" />
+      <workItem from="1708885574843" duration="10718000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
