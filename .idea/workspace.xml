@@ -7,10 +7,40 @@
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/GroupMessageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessageFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/OlasTestConnection$Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/OlasTestConnection$Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/OlasTestConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/OlasTestaServernKlient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/clientTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/ContactUpdateObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/Update.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/ConnectedClients.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$InputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$OutputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/ContactList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController$NewClientConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainStartServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/UnsendMessages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/AllUsersFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/AllUsersPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatMainPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatSouthPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/LoginFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/LoginPanel.class" beforeDir="false" />
     </list>
+    <list id="934130ad-3015-4242-809e-ed64365fb44d" name="Changes by samue" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,30 +92,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.clientTester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hej.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.clientTester.executor": "Run",
+    "Application.hej.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\1984o\OneDrive\Kurser\Trådar och data\P3\P3\src" />
