@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI">
-      <change afterPath="$PROJECT_DIR$/Model/ContactUpdateObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/ContactList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ChatHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/UnsendMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/UnsendMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/ConnectedClients.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/ConnectedClients.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$InputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/Connection$InputHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$OutputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/Connection$OutputHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/Connection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController$NewClientConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/MainServerController$NewClientConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/MainServerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/UnsendMessages.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/UnsendMessages.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +173,8 @@
       <workItem from="1709121095041" duration="16877000" />
       <workItem from="1709152745333" duration="17825000" />
       <workItem from="1709239287516" duration="247000" />
+      <workItem from="1709297135581" duration="3000" />
+      <workItem from="1709805117630" duration="2884000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
@@ -211,6 +204,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Model/Message.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
