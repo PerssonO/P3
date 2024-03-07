@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI">
-      <change afterPath="$PROJECT_DIR$/View/GroupMessageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/ClientController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/clientTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/clientTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatSouthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatSouthPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/GroupMessageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessageFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +151,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1708876150421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Uppdatering GUI, ny startsida och gruppchat tillagt">
+      <option name="closed" value="true" />
+      <created>1709541830088</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1709541830088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uppdatering GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppdatering GUI" />
+    <MESSAGE value="Uppdatering GUI, ny startsida och gruppchat tillagt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdatering GUI, ny startsida och gruppchat tillagt" />
   </component>
 </project>
