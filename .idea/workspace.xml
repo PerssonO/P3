@@ -6,10 +6,43 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/ClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/ClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/UpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/UpdateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/clientTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/clientTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ContactUpdateObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ContactUpdateObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ModelLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ModelLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/ChatHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ChatHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/AllUsersFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/AllUsersFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/AllUsersPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/AllUsersPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatMainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatMainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/GroupMessageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessageFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/OutputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/ModelLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/LogReaderWriter$writeonSchedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/LogReaderWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MockServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/ServerView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/Communicator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +191,7 @@
       <workItem from="1708875278372" duration="2419000" />
       <workItem from="1708885574843" duration="10718000" />
       <workItem from="1709818248451" duration="468000" />
+      <workItem from="1709838672289" duration="2896000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
