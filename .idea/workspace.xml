@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
-      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/ChatHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ChatHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Server" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,7 +91,20 @@
       <recent name="C:\Users\1984o\OneDrive\Kurser\Trådar och data\P3\P3\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.clientTester">
+  <component name="RunManager" selected="Application.MainStartServer">
+    <configuration name="MainStartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server.MainStartServer" />
+      <module name="P3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="clientTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client.clientTester" />
       <module name="P3" />
@@ -117,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainStartServer" />
         <item itemvalue="Application.clientTester" />
         <item itemvalue="Application.hej" />
       </list>
