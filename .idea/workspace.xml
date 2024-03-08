@@ -6,16 +6,39 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/ClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/ClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/InputHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/UpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/UpdateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Message.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ServerTraffic.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/MainFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/Client/ClientStarter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/ClientStarter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection$Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection$Input.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection$Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection$Output.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/ContactController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/InputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/InputHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/Client/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/MessageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/UpdateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/UpdateController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/clientTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/clientTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/Message$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Model/Message$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Model/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$InputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/Connection$InputHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/Connection$OutputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/Connection$OutputHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController$NewClientConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/MainServerController$NewClientConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/MainServerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/MainServerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/ServerTraffic.dat" afterDir="false" />
+    </list>
+    <list id="c198352e-f7b2-4243-aa34-af1291202217" name="Changes by Johnny" comment="">
+      <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/LoginPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +80,27 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/View/LoginPanel.java">
+      <ranges>
+        <range start1="6" end1="6" start2="6" end2="8" changelist="c198352e-f7b2-4243-aa34-af1291202217" />
+        <range start1="9" end1="9" start2="11" end2="12" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="44" end1="44" start2="47" end2="79" changelist="c198352e-f7b2-4243-aa34-af1291202217" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/Server/MainServerController.java">
+      <ranges>
+        <range start1="46" end1="46" start2="46" end2="48" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="47" end1="48" start2="49" end2="50" changelist="c198352e-f7b2-4243-aa34-af1291202217" />
+        <range start1="50" end1="50" start2="52" end2="53" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="54" end1="54" start2="57" end2="58" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="57" end1="57" start2="61" end2="62" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="114" end1="114" start2="119" end2="127" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="115" end1="115" start2="128" end2="129" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+        <range start1="127" end1="128" start2="141" end2="142" changelist="39e8783f-3977-4b56-85f7-448e30ca8edf" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -70,6 +114,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainStartServer.executor": "Run",
     "Application.clientTester.executor": "Run",
     "Application.hej.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -112,7 +157,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clientTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="clientTester" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client.clientTester" />
       <module name="P3" />
       <extension name="coverage">
@@ -138,6 +183,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.clientTester" />
+      <item itemvalue="Application.hej" />
+      <item itemvalue="Application.MainStartServer" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.clientTester" />
