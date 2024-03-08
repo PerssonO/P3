@@ -6,13 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/ContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ContactList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/MainServerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ServerTraffic.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/LoginPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/LoginPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/LoginPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/LoginPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/savedContactList" beforeDir="false" afterPath="$PROJECT_DIR$/savedContactList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" afterDir="false" />
     </list>
     <list id="c198352e-f7b2-4243-aa34-af1291202217" name="Changes by Johnny" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +172,7 @@
       <workItem from="1708885574843" duration="10718000" />
       <workItem from="1709818248451" duration="468000" />
       <workItem from="1709838672289" duration="2896000" />
-      <workItem from="1709896273829" duration="403000" />
+      <workItem from="1709896273829" duration="716000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
@@ -216,11 +218,6 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Server/MainServerController.java</url>
-          <line>126</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
