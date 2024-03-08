@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/ConnectedClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ConnectedClients.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/GroupMessageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessageFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Server/ConnectedClients.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Server/ConnectedClients.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" afterDir="false" />
     </list>
     <list id="c198352e-f7b2-4243-aa34-af1291202217" name="Changes by Johnny" comment="" />
@@ -212,11 +215,6 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Server/MainServerController.java</url>
-          <line>126</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
