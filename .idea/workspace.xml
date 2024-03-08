@@ -6,12 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Model/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Model/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/MessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatSouthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatSouthPanel.class" afterDir="false" />
     </list>
     <list id="c198352e-f7b2-4243-aa34-af1291202217" name="Changes by Johnny" comment="" />
     <option name="SHOW_DIALOG" value="false" />
