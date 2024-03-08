@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
-      <change beforePath="$PROJECT_DIR$/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Client/Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" afterDir="false" />
     </list>
     <list id="c198352e-f7b2-4243-aa34-af1291202217" name="Changes by Johnny" comment="" />
     <option name="SHOW_DIALOG" value="false" />
