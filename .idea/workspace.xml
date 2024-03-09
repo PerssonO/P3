@@ -7,12 +7,12 @@
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ServerTraffic.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ChatNorthPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/ContactsPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/View/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/GroupMessagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/View/MainFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/ServerTraffic.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ChatNorthPanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/ContactsPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/View/MainFrame.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/savedContactList" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/savedContactList" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/savedContactList" beforeDir="false" afterPath="$PROJECT_DIR$/savedContactList" afterDir="false" />
     </list>
@@ -173,7 +173,7 @@
       <workItem from="1709818248451" duration="468000" />
       <workItem from="1709838672289" duration="2896000" />
       <workItem from="1709896273829" duration="716000" />
-      <workItem from="1709921105003" duration="6460000" />
+      <workItem from="1709921105003" duration="10038000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
