@@ -6,24 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/Client/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/Client/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/BoundaryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/BoundaryHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/Client/ClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/ClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Client/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/ContactController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/Client/InputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/InputHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/Client/MainStartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/MainStartClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Client/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/MessageController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/Client/OutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/OutputHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/Client/UpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Client/UpdateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/ContactUpdateDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/ContactUpdateDisplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/MessageDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/MessageDisplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/UpdateDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/UpdateDisplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/files/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/files/ServerTraffic.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Controller/Client/ClientStarter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Controller/Client/ClientStarter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Controller/Client/InputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Controller/Client/InputHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Controller/Client/MainStartClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Controller/Client/MainStartClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Controller/Client/OutputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Controller/Client/OutputHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/Controller/Client/UpdateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/Controller/Client/UpdateController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/BoundaryHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/ContactUpdateDisplayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/MessageDisplayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P3/View/UpdateDisplayer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/P3/files/ServerTraffic.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P3/files/ServerTraffic.dat" afterDir="false" />
     </list>
-    <list id="2141de8f-846b-4f72-9f84-5debf84a1f12" name="Changes by Johnny" comment="" />
+    <list id="2141de8f-846b-4f72-9f84-5debf84a1f12" name="Changes by Johnny" comment="">
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ChatFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ChatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ChatHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ChatMainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ChatMainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ChatNorthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ChatNorthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ChatSouthPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ChatSouthPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ContactsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ContactsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/ContactsPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/ContactsPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/GroupMessageFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/GroupMessageFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/GroupMessagePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/GroupMessagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/GUI/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/GUI/LoginPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
