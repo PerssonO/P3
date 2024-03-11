@@ -6,10 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="39e8783f-3977-4b56-85f7-448e30ca8edf" name="Changes" comment="Uppdatering GUI, ny startsida och gruppchat tillagt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boundary/Server/ServerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/Server/ServerView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller/Server/ServerViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Server/ServerViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entity/LogReaderWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/LogReaderWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entity/ModelLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/ModelLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boundary/Server/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary/Server/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Server/MainServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Server/MainServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/Server/MainStartServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Server/MainStartServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/ChatHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/ConnectedClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/ConnectedClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/ContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/ContactList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/ContactUpdateObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/ContactUpdateObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/UnsendMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/UnsendMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entity/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entity/Update.java" afterDir="false" />
     </list>
     <list id="2141de8f-846b-4f72-9f84-5debf84a1f12" name="Changes by Johnny" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,6 +166,9 @@
       <workItem from="1709896273829" duration="716000" />
       <workItem from="1709921105003" duration="10038000" />
       <workItem from="1710063799700" duration="6248000" />
+      <workItem from="1710110191441" duration="178000" />
+      <workItem from="1710143999574" duration="61000" />
+      <workItem from="1710144081040" duration="4644000" />
     </task>
     <task id="LOCAL−00001" summary="Uppdatering GUI">
       <option name="closed" value="true" />
@@ -205,6 +214,11 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Controller/Client/MessageController.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
